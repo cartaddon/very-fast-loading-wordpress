@@ -1,6 +1,8 @@
 # very-fast-loading-wordpress
 make your wordpress site loads very fast
 
+Plugin url: https://wordpress.org/plugins/very-fast-loading/
+
 === Very Fast Loading ===
 
 Contributors: cartaddon
@@ -10,15 +12,10 @@ Tags: fastloading, minify, minified, performance, speed, compress, html, css, js
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=F33HE9J3WVC5Y
 
 Requires at least: WP 2.8 and PHP 4.x to 5.x
-
 Tested up to: 4.3
-
 Stable tag: 4.3
-
 License: GPLv2 or later
-
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
 The only and true lightweight plugin that will minify your html codes and inline javascript and css codes.
 
 == Description ==
