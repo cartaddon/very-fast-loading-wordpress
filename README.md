@@ -1,5 +1,5 @@
 # very-fast-loading-wordpress
-make your wordpress site loads very fast
+make your wordpress site loads very fast by CartAddon.com
 
 Plugin url: https://wordpress.org/plugins/very-fast-loading/
 
