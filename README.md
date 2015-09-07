@@ -15,7 +15,9 @@ Requires at least: WP 2.8 and PHP 4.x to 5.x
 Tested up to: 4.3
 Stable tag: 4.3
 License: GPLv2 or later
+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
 The only and true lightweight plugin that will minify your html codes and inline javascript and css codes.
 
 == Description ==
